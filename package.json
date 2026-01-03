@@ -18,11 +18,15 @@
     "chrome",
     "headless"
   ],
-  "author": "",
+  "author": "Appraisal Science Inc",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Appraisal-Science-Inc/md-to-pdf-lite.git"
+  },
+  "homepage": "https://github.com/Appraisal-Science-Inc/md-to-pdf-lite#readme",
+  "bugs": {
+    "url": "https://github.com/Appraisal-Science-Inc/md-to-pdf-lite/issues"
   },
   "engines": {
     "node": ">=18"
