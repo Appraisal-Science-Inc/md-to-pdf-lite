@@ -5,7 +5,7 @@ Convert Markdown to PDF using your system's Chrome browser. No 250MB Puppeteer/P
 ## Installation
 
 ```bash
-npm install -g md-to-pdf-lite
+npm install -g github:Appraisal-Science-Inc/md-to-pdf-lite
 ```
 
 ## Requirements
