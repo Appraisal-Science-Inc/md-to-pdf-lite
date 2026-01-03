@@ -1,0 +1,33 @@
+{
+  "name": "md-to-pdf-lite",
+  "version": "1.0.0",
+  "description": "Convert Markdown to PDF using system Chrome - no bundled browser downloads",
+  "type": "module",
+  "bin": {
+    "md-to-pdf-lite": "./md-to-pdf.js"
+  },
+  "files": [
+    "md-to-pdf.js"
+  ],
+  "keywords": [
+    "markdown",
+    "pdf",
+    "converter",
+    "github-flavored-markdown",
+    "gfm",
+    "chrome",
+    "headless"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "marked": "^17.0.0"
+  }
+}
